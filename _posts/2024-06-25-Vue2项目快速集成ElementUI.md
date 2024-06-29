@@ -4,8 +4,6 @@ layout: post
 title: Vue2项目快速集成ElementUI
 
 tag: Vue
-
-typora-root-url: /images/posts
 ---
 
 # 1、下载依赖
@@ -34,4 +32,4 @@ Vue.use(ElementUI,{size:"small"});
 
 效果如下所示
 
-![1719581140412](/Vue/Quickly_integrate_ElementUI_into_a_Vue2_project/1719581140412.jpg)
+![1719581140412](/images/posts/Vue/Quickly_integrate_ElementUI_into_a_Vue2_project/1719581140412.jpg)
