@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Windows_Setup_and_Deployment_Tutorial_for_Redis
+title: Window下Redis的安装和部署详细教程
 
 tag: Redis
 ---
