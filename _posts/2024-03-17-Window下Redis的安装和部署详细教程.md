@@ -4,8 +4,6 @@ layout: post
 title: Windows_Setup_and_Deployment_Tutorial_for_Redis
 
 tag: Redis
-
-typora-root-url: /images/posts
 ---
 
 # 一、安装Redis服务 
@@ -24,7 +22,7 @@ typora-root-url: /images/posts
 
 [https://github.com/tporadowski/redis/releases](https://link.zhihu.com/?target=https%3A//github.com/tporadowski/redis/releases) 
 
-![1719584488266](/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584488266.jpg)
+![1719584488266](/images/posts/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584488266.jpg)
 
 `以下操作示例是下载的v8.0版本`
 
@@ -32,7 +30,7 @@ typora-root-url: /images/posts
 
 将下载的压缩包解压到指定的文件夹中，如：`D:\redis`，内容如下： 
 
-![1719584506785](/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584506785.jpg)
+![1719584506785](/images/posts/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584506785.jpg)
 
 ## 3、修改redis.conf
 
@@ -117,13 +115,13 @@ protected-mode yes
 redis-server --service-start
 ```
 
-![1719584512881](/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584512881.jpg)
+![1719584512881](/images/posts/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584512881.jpg)
 
 `出现以上提示则表示启动成功~嘻嘻嘻~`
 
 为了方便，建议把Redis路径配置到系统变量Path值中，这样就省得再输路径了。 
 
-![1719584516734](/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584516734.jpg)
+![1719584516734](/images/posts/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584516734.jpg)
 
 Redis常用的服务指令
 
@@ -152,8 +150,8 @@ redis-server --service-stop
 
 无需任何配置直接连接-》
 
-![1719584520985](/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584520985.jpg)
+![1719584520985](/images/posts/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584520985.jpg)
 
 界面如下： 
 
-![1719584524361](/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584524361.jpg)
+![1719584524361](/images/posts/Redis/Windows_Setup_and_Deployment_Tutorial_for_Redis/1719584524361.jpg)
