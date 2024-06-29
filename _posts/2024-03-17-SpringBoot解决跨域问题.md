@@ -5,12 +5,12 @@ title: SpringBoot解决跨域问题
 
 tag: Java
 
-typora-root-url: ..\images\posts
+typora-root-url: /images/posts
 ---
 
 **遇到前端跨域访问问题，类似于这样的：**
 
-![1719590788843](/Java/SpringBoot解决跨域问题/1719590788843.jpg)
+![1719590788843](/Java/SpringBoot_Solve_Cors_Issue/1719590788843.jpg)
 
 在Springboot项目里加上这个配置文件**`CorsConfig.java`**，**重启**之后即可实现跨域访问，前端无需再配置跨域。 
 

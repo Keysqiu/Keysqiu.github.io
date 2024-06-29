@@ -34,4 +34,4 @@ Vue.use(ElementUI,{size:"small"});
 
 效果如下所示
 
-![1719581140412](/Vue/Vue2项目快速集成ElementUI/1719581140412.jpg)
+![1719581140412](/Vue/Quickly_integrate_ElementUI_into_a_Vue2_project/1719581140412.jpg)
